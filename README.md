@@ -1,2 +1,2 @@
-# Ichyawebsite
-It's ichya personal site
+# Ichya
+Ichya website from Niroj
