@@ -1,2 +1,2 @@
-# Ichya
-Ichya website from Niroj
+# Ichhya
+Ichhya website from Niroj
